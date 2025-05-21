@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring AI/ML Engineer | Tech Enthusiast | Creative Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/Sachin28062004&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Sachin28062004&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
@@ -57,11 +57,11 @@ Tech Stack: HTML, CSS, PHP, MySQL
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Sachin28062004&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin28062004&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Sachin28062004&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin28062004&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sachin28062004&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin28062004&layout=compact&theme=radical" />
 </p>
 
 ---
